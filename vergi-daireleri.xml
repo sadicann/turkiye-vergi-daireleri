@@ -1,0 +1,6258 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <id>1250</id>
+      <il>01 ADANA</il>
+      <ilce>Merkez</ilce>
+      <isim>Adana İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1251</id>
+      <il>01 ADANA</il>
+      <ilce>Merkez</ilce>
+      <isim>5 Ocak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1252</id>
+      <il>01 ADANA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yüreğir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1253</id>
+      <il>01 ADANA</il>
+      <ilce>Merkez</ilce>
+      <isim>Seyhan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1254</id>
+      <il>01 ADANA</il>
+      <ilce>Merkez</ilce>
+      <isim>Ziyapaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1255</id>
+      <il>01 ADANA</il>
+      <ilce>Merkez</ilce>
+      <isim>Çukurova Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1201</id>
+      <il>01 ADANA</il>
+      <ilce>Ceyhan</ilce>
+      <isim>Ceyhan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1203</id>
+      <il>01 ADANA</il>
+      <ilce>Kozan</ilce>
+      <isim>Kozan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1205</id>
+      <il>01 ADANA</il>
+      <ilce>Karataş</ilce>
+      <isim>Karataş Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>1103</id>
+      <il>01 ADANA</il>
+      <ilce>Feke</ilce>
+      <isim>Feke Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1105</id>
+      <il>01 ADANA</il>
+      <ilce>Karaisalı</ilce>
+      <isim>Karaisalı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1109</id>
+      <il>01 ADANA</il>
+      <ilce>Pozantı</ilce>
+      <isim>Pozantı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1110</id>
+      <il>01 ADANA</il>
+      <ilce>Saimbeyli</ilce>
+      <isim>Saimbeyli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1111</id>
+      <il>01 ADANA</il>
+      <ilce>Tufanbeyli</ilce>
+      <isim>Tufanbeyli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1112</id>
+      <il>01 ADANA</il>
+      <ilce>Yumurtalık</ilce>
+      <isim>Yumurtalık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1114</id>
+      <il>01 ADANA</il>
+      <ilce>Aladağ</ilce>
+      <isim>Aladağ Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>1115</id>
+      <il>01 ADANA</il>
+      <ilce>İmamoğlu</ilce>
+      <isim>İmamoğlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2260</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Merkez</ilce>
+      <isim>Adıyaman Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>2261</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Kahta</ilce>
+      <isim>Kahta Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>2101</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Besni</ilce>
+      <isim>Besni Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2102</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Çelikhan</ilce>
+      <isim>Çelikhan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2103</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Gerger</ilce>
+      <isim>Gerger Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2104</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Gölbaşı</ilce>
+      <isim>Gölbaşı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2106</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Samsat</ilce>
+      <isim>Samsat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2107</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Sincik</ilce>
+      <isim>Sincik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>2108</id>
+      <il>02 ADIYAMAN</il>
+      <ilce>Tut</ilce>
+      <isim>Tut Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3201</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Merkez</ilce>
+      <isim>Tınaztepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3280</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Merkez</ilce>
+      <isim>Kocatepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3260</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Dinar</ilce>
+      <isim>Dinar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3261</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Bolvadin</ilce>
+      <isim>Bolvadin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3262</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Emirdağ</ilce>
+      <isim>Emirdağ Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3263</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Sandıklı</ilce>
+      <isim>Sandıklı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3264</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>İscehisar</ilce>
+      <isim>İscehisar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3202</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Çay</ilce>
+      <isim>Çay Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>3103</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Dazkırı</ilce>
+      <isim>Dazkırı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3105</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>İhsaniye</ilce>
+      <isim>İhsaniye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3107</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Sinanpaşa</ilce>
+      <isim>Sinanpaşa Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3108</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Sultandağı</ilce>
+      <isim>Sultandağı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3109</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Şuhut</ilce>
+      <isim>Şuhut Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3111</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Başmakçı</ilce>
+      <isim>Başmakçı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3112</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Bayat</ilce>
+      <isim>Bayat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3114</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Çobanlar</ilce>
+      <isim>Çobanlar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3115</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Evciler</ilce>
+      <isim>Evciler Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3116</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Hocalar</ilce>
+      <isim>Hocalar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>3117</id>
+      <il>03 AFYONKARAHİSAR</il>
+      <ilce>Kızılören</ilce>
+      <isim>Kızılören Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>4260</id>
+      <il>04 AĞRI</il>
+      <ilce>Merkez</ilce>
+      <isim>Ağrı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>4261</id>
+      <il>04 AĞRI</il>
+      <ilce>Doğubeyazıt</ilce>
+      <isim>Doğubeyazıt Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>4262</id>
+      <il>04 AĞRI</il>
+      <ilce>Patnos</ilce>
+      <isim>Patnos Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>4101</id>
+      <il>04 AĞRI</il>
+      <ilce>Diyadin</ilce>
+      <isim>Diyadin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>4103</id>
+      <il>04 AĞRI</il>
+      <ilce>Eleşkirt</ilce>
+      <isim>Eleşkirt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>4104</id>
+      <il>04 AĞRI</il>
+      <ilce>Hamur</ilce>
+      <isim>Hamur Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>4106</id>
+      <il>04 AĞRI</il>
+      <ilce>Taşlıçay</ilce>
+      <isim>Taşlıçay Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>4107</id>
+      <il>04 AĞRI</il>
+      <ilce>Tutak</ilce>
+      <isim>Tutak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>5260</id>
+      <il>05 AMASYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Amasya Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>5261</id>
+      <il>05 AMASYA</il>
+      <ilce>Merzifon</ilce>
+      <isim>Merzifon Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>5262</id>
+      <il>05 AMASYA</il>
+      <ilce>Gümüşhacıköy</ilce>
+      <isim>Gümüşhacıköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>5263</id>
+      <il>05 AMASYA</il>
+      <ilce>Taşova</ilce>
+      <isim>Taşova Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>5264</id>
+      <il>05 AMASYA</il>
+      <ilce>Suluova</ilce>
+      <isim>Suluova Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>5101</id>
+      <il>05 AMASYA</il>
+      <ilce>Göynücek</ilce>
+      <isim>Göynücek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>5106</id>
+      <il>05 AMASYA</il>
+      <ilce>Hamamözü</ilce>
+      <isim>Hamamözü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6280</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Anadolu İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6281</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Ankara İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6252</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Veraset ve Harçlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6253</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Kavaklıdere Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6254</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Maltepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6255</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yenimahalle Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6257</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Çankaya Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6258</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Kızılbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6259</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Mithatpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6260</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Ulus Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6261</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yıldırım Beyazıt Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6262</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Seğmenler Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6264</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Dikimevi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6265</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Doğanbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6266</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yeğenbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6268</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Hitit Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6269</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yahya Galip Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6270</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Muhammet Karagüzel Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6271</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Ostim Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6272</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Gölbaşı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6273</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Sincan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6274</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Dışkapı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6275</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Etimesgut Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6276</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Başkent Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6277</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Cumhuriyet Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6278</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez</ilce>
+      <isim>Keçiören Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6279</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Kahramankazan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6205</id>
+      <il>06 ANKARA</il>
+      <ilce>Polatlı</ilce>
+      <isim>Polatlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6207</id>
+      <il>06 ANKARA</il>
+      <ilce>Şereflikoçhisar</ilce>
+      <isim>Şereflikoçhisar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6209</id>
+      <il>06 ANKARA</il>
+      <ilce>Beypazarı</ilce>
+      <isim>Beypazarı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6211</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Çubuk Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6213</id>
+      <il>06 ANKARA</il>
+      <ilce>Haymana</ilce>
+      <isim>Haymana Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6215</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Elmadağ Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>6102</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Ayaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6103</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Balâ Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6106</id>
+      <il>06 ANKARA</il>
+      <ilce>Çamlıdere</ilce>
+      <isim>Çamlıdere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6110</id>
+      <il>06 ANKARA</il>
+      <ilce>Güdül</ilce>
+      <isim>Güdül Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6112</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Kalecik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6115</id>
+      <il>06 ANKARA</il>
+      <ilce>Kızılcahamam</ilce>
+      <isim>Kızılcahamam Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6117</id>
+      <il>06 ANKARA</il>
+      <ilce>Nallıhan</ilce>
+      <isim>Nallıhan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6125</id>
+      <il>06 ANKARA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Akyurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>6127</id>
+      <il>06 ANKARA</il>
+      <ilce>Evren</ilce>
+      <isim>Evren Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7251</id>
+      <il>07 ANTALYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Üçkapılar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7252</id>
+      <il>07 ANTALYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Kalekapı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7253</id>
+      <il>07 ANTALYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Muratpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7254</id>
+      <il>07 ANTALYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Düden Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7255</id>
+      <il>07 ANTALYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Antalya Kurumlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7256</id>
+      <il>07 ANTALYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Antalya İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7257</id>
+      <il>07 ANTALYA</il>
+      <ilce>Korkuteli</ilce>
+      <isim>Korkuteli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7201</id>
+      <il>07 ANTALYA</il>
+      <ilce>Alanya</ilce>
+      <isim>Alanya Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7202</id>
+      <il>07 ANTALYA</il>
+      <ilce>Serik</ilce>
+      <isim>Serik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7203</id>
+      <il>07 ANTALYA</il>
+      <ilce>Manavgat</ilce>
+      <isim>Manavgat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7204</id>
+      <il>07 ANTALYA</il>
+      <ilce>Elmalı</ilce>
+      <isim>Elmalı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7205</id>
+      <il>07 ANTALYA</il>
+      <ilce>Kemer</ilce>
+      <isim>Kemer Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7206</id>
+      <il>07 ANTALYA</il>
+      <ilce>Kumluca</ilce>
+      <isim>Kumluca Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>7101</id>
+      <il>07 ANTALYA</il>
+      <ilce>Akseki</ilce>
+      <isim>Akseki Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7104</id>
+      <il>07 ANTALYA</il>
+      <ilce>Finike</ilce>
+      <isim>Finike Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7105</id>
+      <il>07 ANTALYA</il>
+      <ilce>Gazipaşa</ilce>
+      <isim>Gazipaşa Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7106</id>
+      <il>07 ANTALYA</il>
+      <ilce>Gündoğmuş</ilce>
+      <isim>Gündoğmuş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7107</id>
+      <il>07 ANTALYA</il>
+      <ilce>Kaş</ilce>
+      <isim>Kaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7112</id>
+      <il>07 ANTALYA</il>
+      <ilce>Demre</ilce>
+      <isim>Demre Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>7113</id>
+      <il>07 ANTALYA</il>
+      <ilce>İbradı</ilce>
+      <isim>İbradı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>8260</id>
+      <il>08 ARTVİN</il>
+      <ilce>Merkez</ilce>
+      <isim>Artvin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>8261</id>
+      <il>08 ARTVİN</il>
+      <ilce>Hopa</ilce>
+      <isim>Hopa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>8262</id>
+      <il>08 ARTVİN</il>
+      <ilce>Arhavi</ilce>
+      <isim>Arhavi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>8101</id>
+      <il>08 ARTVİN</il>
+      <ilce>Ardanuç</ilce>
+      <isim>Ardanuç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>8103</id>
+      <il>08 ARTVİN</il>
+      <ilce>Borçka</ilce>
+      <isim>Borçka Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>8105</id>
+      <il>08 ARTVİN</il>
+      <ilce>Şavşat</ilce>
+      <isim>Şavşat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>8106</id>
+      <il>08 ARTVİN</il>
+      <ilce>Yusufeli</ilce>
+      <isim>Yusufeli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>8107</id>
+      <il>08 ARTVİN</il>
+      <ilce>Murgul</ilce>
+      <isim>Murgul Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9201</id>
+      <il>09 AYDIN</il>
+      <ilce>Merkez</ilce>
+      <isim>Efeler Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9280</id>
+      <il>09 AYDIN</il>
+      <ilce>Merkez</ilce>
+      <isim>Güzelhisar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9260</id>
+      <il>09 AYDIN</il>
+      <ilce>Nazilli</ilce>
+      <isim>Nazilli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9261</id>
+      <il>09 AYDIN</il>
+      <ilce>Söke</ilce>
+      <isim>Söke Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9262</id>
+      <il>09 AYDIN</il>
+      <ilce>Çine</ilce>
+      <isim>Çine Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9263</id>
+      <il>09 AYDIN</il>
+      <ilce>Germencik</ilce>
+      <isim>Germencik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9265</id>
+      <il>09 AYDIN</il>
+      <ilce>Kuşadası</ilce>
+      <isim>Kuşadası Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9281</id>
+      <il>09 AYDIN</il>
+      <ilce>Didim</ilce>
+      <isim>Didim Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>9101</id>
+      <il>09 AYDIN</il>
+      <ilce>Bozdoğan</ilce>
+      <isim>Bozdoğan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9104</id>
+      <il>09 AYDIN</il>
+      <ilce>Karacasu</ilce>
+      <isim>Karacasu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9105</id>
+      <il>09 AYDIN</il>
+      <ilce>Koçarlı</ilce>
+      <isim>Koçarlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9107</id>
+      <il>09 AYDIN</il>
+      <ilce>Kuyucak</ilce>
+      <isim>Kuyucak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9110</id>
+      <il>09 AYDIN</il>
+      <ilce>Sultanhisar</ilce>
+      <isim>Sultanhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9111</id>
+      <il>09 AYDIN</il>
+      <ilce>Yenipazar</ilce>
+      <isim>Yenipazar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9112</id>
+      <il>09 AYDIN</il>
+      <ilce>Buharkent</ilce>
+      <isim>Buharkent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9113</id>
+      <il>09 AYDIN</il>
+      <ilce>İncirliova</ilce>
+      <isim>İncirliova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9114</id>
+      <il>09 AYDIN</il>
+      <ilce>Karpuzlu</ilce>
+      <isim>Karpuzlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>9115</id>
+      <il>09 AYDIN</il>
+      <ilce>Köşk</ilce>
+      <isim>Köşk Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10201</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Karesi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10280</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Kurtdereli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10260</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Ayvalık</ilce>
+      <isim>Ayvalık Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10261</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Bandırma</ilce>
+      <isim>Bandırma Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10262</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Burhaniye</ilce>
+      <isim>Burhaniye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10263</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Edremit</ilce>
+      <isim>Edremit Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10264</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Gönen</ilce>
+      <isim>Gönen Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10265</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Susurluk</ilce>
+      <isim>Susurluk Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10266</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Erdek</ilce>
+      <isim>Erdek Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10267</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Bigadiç</ilce>
+      <isim>Bigadiç Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10268</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Sındırgı</ilce>
+      <isim>Sındırgı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10269</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Dursunbey</ilce>
+      <isim>Dursunbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>10102</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Balya</ilce>
+      <isim>Balya Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10110</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Havran</ilce>
+      <isim>Havran Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10111</id>
+      <il>10 BALIKESİR</il>
+      <ilce>İvrindi</ilce>
+      <isim>İvrindi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10112</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Kepsut</ilce>
+      <isim>Kepsut Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10113</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Manyas</ilce>
+      <isim>Manyas Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10114</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Savaştepe</ilce>
+      <isim>Savaştepe Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10117</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Marmara</ilce>
+      <isim>Marmara Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>10118</id>
+      <il>10 BALIKESİR</il>
+      <ilce>Gömeç</ilce>
+      <isim>Gömeç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>11260</id>
+      <il>11 BİLECİK</il>
+      <ilce>Merkez</ilce>
+      <isim>Bilecik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>11261</id>
+      <il>11 BİLECİK</il>
+      <ilce>Bozüyük</ilce>
+      <isim>Bozüyük Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>11102</id>
+      <il>11 BİLECİK</il>
+      <ilce>Gölpazarı</ilce>
+      <isim>Gölpazarı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>11103</id>
+      <il>11 BİLECİK</il>
+      <ilce>Osmaneli</ilce>
+      <isim>Osmaneli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>11104</id>
+      <il>11 BİLECİK</il>
+      <ilce>Pazaryeri</ilce>
+      <isim>Pazaryeri Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>11105</id>
+      <il>11 BİLECİK</il>
+      <ilce>Söğüt</ilce>
+      <isim>Söğüt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>11106</id>
+      <il>11 BİLECİK</il>
+      <ilce>Yenipazar</ilce>
+      <isim>Yenipazar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>11107</id>
+      <il>11 BİLECİK</il>
+      <ilce>İnhisar</ilce>
+      <isim>İnhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12260</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Merkez</ilce>
+      <isim>Bingöl Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>12101</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Genç</ilce>
+      <isim>Genç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12102</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Karlıova</ilce>
+      <isim>Karlıova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12103</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Kiğı</ilce>
+      <isim>Kiğı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12104</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Solhan</ilce>
+      <isim>Solhan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12105</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Adaklı</ilce>
+      <isim>Adaklı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12106</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Yayladere</ilce>
+      <isim>Yayladere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>12107</id>
+      <il>12 BİNGÖL</il>
+      <ilce>Yedisu</ilce>
+      <isim>Yedisu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>13260</id>
+      <il>13 BİTLİS</il>
+      <ilce>Merkez</ilce>
+      <isim>Bitlis Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>13261</id>
+      <il>13 BİTLİS</il>
+      <ilce>Tatvan</ilce>
+      <isim>Tatvan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>13101</id>
+      <il>13 BİTLİS</il>
+      <ilce>Adilcevaz</ilce>
+      <isim>Adilcevaz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>13102</id>
+      <il>13 BİTLİS</il>
+      <ilce>Ahlat</ilce>
+      <isim>Ahlat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>13103</id>
+      <il>13 BİTLİS</il>
+      <ilce>Hizan</ilce>
+      <isim>Hizan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>13104</id>
+      <il>13 BİTLİS</il>
+      <ilce>Mutki</ilce>
+      <isim>Mutki Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>13106</id>
+      <il>13 BİTLİS</il>
+      <ilce>Göroymak</ilce>
+      <isim>Güroymak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14260</id>
+      <il>14 BOLU</il>
+      <ilce>Merkez</ilce>
+      <isim>Bolu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>14262</id>
+      <il>14 BOLU</il>
+      <ilce>Gerede</ilce>
+      <isim>Gerede Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>14104</id>
+      <il>14 BOLU</il>
+      <ilce>Göynük</ilce>
+      <isim>Göynük Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14105</id>
+      <il>14 BOLU</il>
+      <ilce>Kıbrıscık</ilce>
+      <isim>Kıbrıscık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14106</id>
+      <il>14 BOLU</il>
+      <ilce>Mengen</ilce>
+      <isim>Mengen Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14107</id>
+      <il>14 BOLU</il>
+      <ilce>Mudurnu</ilce>
+      <isim>Mudurnu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14108</id>
+      <il>14 BOLU</il>
+      <ilce>Seben</ilce>
+      <isim>Seben Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14113</id>
+      <il>14 BOLU</il>
+      <ilce>Dörtdivan</ilce>
+      <isim>Dörtdivan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>14114</id>
+      <il>14 BOLU</il>
+      <ilce>Yeniçağa</ilce>
+      <isim>Yeniçağa Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15260</id>
+      <il>15 BURDUR</il>
+      <ilce>Merkez</ilce>
+      <isim>Burdur Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>15261</id>
+      <il>15 BURDUR</il>
+      <ilce>Bucak</ilce>
+      <isim>Bucak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>15101</id>
+      <il>15 BURDUR</il>
+      <ilce>Ağlasun</ilce>
+      <isim>Ağlasun Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15103</id>
+      <il>15 BURDUR</il>
+      <ilce>Gölhisar</ilce>
+      <isim>Gölhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15104</id>
+      <il>15 BURDUR</il>
+      <ilce>Tefenni</ilce>
+      <isim>Tefenni Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15105</id>
+      <il>15 BURDUR</il>
+      <ilce>Yeşilova</ilce>
+      <isim>Yeşilova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15106</id>
+      <il>15 BURDUR</il>
+      <ilce>Karamanlı</ilce>
+      <isim>Karamanlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15107</id>
+      <il>15 BURDUR</il>
+      <ilce>Kemer</ilce>
+      <isim>Kemer Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15108</id>
+      <il>15 BURDUR</il>
+      <ilce>Altınyayla</ilce>
+      <isim>Altınyayla Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15109</id>
+      <il>15 BURDUR</il>
+      <ilce>Çavdır</ilce>
+      <isim>Çavdır Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>15110</id>
+      <il>15 BURDUR</il>
+      <ilce>Çeltikçi</ilce>
+      <isim>Çeltikçi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>16250</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Bursa İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16251</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Osmangazi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16252</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yıldırım Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16253</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Çekirge Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16254</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Setbaşı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16255</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Uludağ Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16256</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yeşil Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16257</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Nilüfer Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16258</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Ertuğrulgazi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16259</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Gökdere Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16260</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Bursa Veraset ve Harçlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16201</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Gemlik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16202</id>
+      <il>16 BURSA</il>
+      <ilce>İnegöl</ilce>
+      <isim>İnegöl Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16203</id>
+      <il>16 BURSA</il>
+      <ilce>Karacabey</ilce>
+      <isim>Karacabey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16204</id>
+      <il>16 BURSA</il>
+      <ilce>Mustafakemalpaşa</ilce>
+      <isim>Mustafakemalpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16205</id>
+      <il>16 BURSA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Mudanya Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16206</id>
+      <il>16 BURSA</il>
+      <ilce>Orhangazi</ilce>
+      <isim>Orhangazi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16207</id>
+      <il>16 BURSA</il>
+      <ilce>İznik</ilce>
+      <isim>İznik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16208</id>
+      <il>16 BURSA</il>
+      <ilce>Yenişehir</ilce>
+      <isim>Yenişehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>16105</id>
+      <il>16 BURSA</il>
+      <ilce>Keles</ilce>
+      <isim>Keles Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>16108</id>
+      <il>16 BURSA</il>
+      <ilce>Orhaneli</ilce>
+      <isim>Orhaneli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>16111</id>
+      <il>16 BURSA</il>
+      <ilce>Harmancık</ilce>
+      <isim>Harmancık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>16112</id>
+      <il>16 BURSA</il>
+      <ilce>Büyükorhan</ilce>
+      <isim>Büyükorhan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17260</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Merkez</ilce>
+      <isim>Çanakkale Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>17261</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Biga</ilce>
+      <isim>Biga Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>17262</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Çan</ilce>
+      <isim>Çan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>17263</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Gelibolu</ilce>
+      <isim>Gelibolu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>17101</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Ayvacık</ilce>
+      <isim>Ayvacık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17102</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Bayramiç</ilce>
+      <isim>Bayramiç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17104</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Bozcaada</ilce>
+      <isim>Bozcaada Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17106</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Eceabat</ilce>
+      <isim>Eceabat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17107</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Ezine</ilce>
+      <isim>Ezine Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17109</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Gökçeada</ilce>
+      <isim>Gökçeada Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17110</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Lapseki</ilce>
+      <isim>Lapseki Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>17111</id>
+      <il>17 ÇANAKKALE</il>
+      <ilce>Yenice</ilce>
+      <isim>Yenice Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18260</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Merkez</ilce>
+      <isim>Çankırı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>18101</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Çerkeş</ilce>
+      <isim>Çerkeş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18102</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Eldivan</ilce>
+      <isim>Eldivan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18104</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Ilgaz</ilce>
+      <isim>Ilgaz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18105</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Kurşunlu</ilce>
+      <isim>Kurşunlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18106</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Orta</ilce>
+      <isim>Orta Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18108</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Şabanözü</ilce>
+      <isim>Şabanözü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18109</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Yapraklı</ilce>
+      <isim>Yapraklı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18110</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Atkaracalar</ilce>
+      <isim>Atkaracalar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18111</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Kızılırmak</ilce>
+      <isim>Kızılırmak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18112</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Bayramören</ilce>
+      <isim>Bayramören Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>18113</id>
+      <il>18 ÇANKIRI</il>
+      <ilce>Korgun</ilce>
+      <isim>Korgun Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19260</id>
+      <il>19 ÇORUM</il>
+      <ilce>Merkez</ilce>
+      <isim>Çorum Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>19261</id>
+      <il>19 ÇORUM</il>
+      <ilce>Sungurlu</ilce>
+      <isim>Sungurlu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>19101</id>
+      <il>19 ÇORUM</il>
+      <ilce>Alaca</ilce>
+      <isim>Alaca Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19102</id>
+      <il>19 ÇORUM</il>
+      <ilce>Bayat</ilce>
+      <isim>Bayat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19103</id>
+      <il>19 ÇORUM</il>
+      <ilce>İskilip</ilce>
+      <isim>İskilip Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19104</id>
+      <il>19 ÇORUM</il>
+      <ilce>Kargı</ilce>
+      <isim>Kargı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19105</id>
+      <il>19 ÇORUM</il>
+      <ilce>Mecitözü</ilce>
+      <isim>Mecitözü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19106</id>
+      <il>19 ÇORUM</il>
+      <ilce>Ortaköy</ilce>
+      <isim>Ortaköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19107</id>
+      <il>19 ÇORUM</il>
+      <ilce>Osmancık</ilce>
+      <isim>Osmancık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19109</id>
+      <il>19 ÇORUM</il>
+      <ilce>Boğazkale</ilce>
+      <isim>Boğazkale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19110</id>
+      <il>19 ÇORUM</il>
+      <ilce>Uğurludağ</ilce>
+      <isim>Uğurludağ Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19111</id>
+      <il>19 ÇORUM</il>
+      <ilce>Dodurga</ilce>
+      <isim>Dodurga Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19112</id>
+      <il>19 ÇORUM</il>
+      <ilce>Oğuzlar</ilce>
+      <isim>Oğuzlar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>19113</id>
+      <il>19 ÇORUM</il>
+      <ilce>Laçin</ilce>
+      <isim>Laçin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20201</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Saraylar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20202</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Çınar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20203</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Gökpınar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20250</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Denizli İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20280</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Pamukkale Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20260</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Sarayköy</ilce>
+      <isim>Sarayköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20261</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Acıpayam</ilce>
+      <isim>Acıpayam Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20262</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Tavas</ilce>
+      <isim>Tavas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20263</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Buldan</ilce>
+      <isim>Buldan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20264</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Çal</ilce>
+      <isim>Çal Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20265</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Çivril</ilce>
+      <isim>Çivril Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>20104</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Çameli</ilce>
+      <isim>Çameli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20105</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Çardak</ilce>
+      <isim>Çardak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20107</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Güney</ilce>
+      <isim>Güney Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20108</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Kale</ilce>
+      <isim>Kale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20111</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Babadağ</ilce>
+      <isim>Babadağ Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20112</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Bekilli</ilce>
+      <isim>Bekilli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20113</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Honaz</ilce>
+      <isim>Honaz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20114</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Serinhisar</ilce>
+      <isim>Serinhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20115</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Pamukkale</ilce>
+      <isim>Pamukkale Malmüdürlüğü (Akköy)</isim>
+   </element>
+   <element>
+      <id>20116</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Baklan</ilce>
+      <isim>Baklan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20117</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Beyağaç</ilce>
+      <isim>Beyağaç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>20118</id>
+      <il>20 DENİZLİ</il>
+      <ilce>Bozkurt</ilce>
+      <isim>Bozkurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21251</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Merkez</ilce>
+      <isim>Gökalp Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>21281</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Merkez</ilce>
+      <isim>Süleyman Nazif Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>21282</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Merkez</ilce>
+      <isim>Cahit Sıtkı Tarancı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>21283</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Ergani</ilce>
+      <isim>Ergani Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>21284</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Bismil</ilce>
+      <isim>Bismil Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>21102</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Çermik</ilce>
+      <isim>Çermik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21103</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Çınar</ilce>
+      <isim>Çınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21104</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Çüngüş</ilce>
+      <isim>Çüngüş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21105</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Dicle</ilce>
+      <isim>Dicle Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21107</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Hani</ilce>
+      <isim>Hani Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21108</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Hazro</ilce>
+      <isim>Hazro Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21109</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Kulp</ilce>
+      <isim>Kulp Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21110</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Lice</ilce>
+      <isim>Lice Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21111</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Silvan</ilce>
+      <isim>Silvan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21112</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Eğil</ilce>
+      <isim>Eğil Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>21113</id>
+      <il>21 DİYARBAKIR</il>
+      <ilce>Kocaköy</ilce>
+      <isim>Kocaköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>22201</id>
+      <il>22 EDİRNE</il>
+      <ilce>Merkez</ilce>
+      <isim>Arda Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>22260</id>
+      <il>22 EDİRNE</il>
+      <ilce>Merkez</ilce>
+      <isim>Kırkpınar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>22261</id>
+      <il>22 EDİRNE</il>
+      <ilce>Keşan</ilce>
+      <isim>Keşan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>22262</id>
+      <il>22 EDİRNE</il>
+      <ilce>Uzunköprü</ilce>
+      <isim>Uzunköprü Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>22263</id>
+      <il>22 EDİRNE</il>
+      <ilce>Havsa</ilce>
+      <isim>Havsa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>22264</id>
+      <il>22 EDİRNE</il>
+      <ilce>İpsala</ilce>
+      <isim>İpsala Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>22101</id>
+      <il>22 EDİRNE</il>
+      <ilce>Enez</ilce>
+      <isim>Enez Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>22105</id>
+      <il>22 EDİRNE</il>
+      <ilce>Lalapaşa</ilce>
+      <isim>Lalapaşa Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>22106</id>
+      <il>22 EDİRNE</il>
+      <ilce>Meriç</ilce>
+      <isim>Meriç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>22108</id>
+      <il>22 EDİRNE</il>
+      <ilce>Süloğlu</ilce>
+      <isim>Süloğlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23201</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Harput Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>23280</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Hazar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>23101</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Ağın</ilce>
+      <isim>Ağın Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23102</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Baskil</ilce>
+      <isim>Baskil Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23103</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Karakoçan</ilce>
+      <isim>Karakoçan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23104</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Keban</ilce>
+      <isim>Keban Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23105</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Maden</ilce>
+      <isim>Maden Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23106</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Palu</ilce>
+      <isim>Palu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23107</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Sivrice</ilce>
+      <isim>Sivrice Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23108</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Arıcak</ilce>
+      <isim>Arıcak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23109</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Kovancılar</ilce>
+      <isim>Kovancılar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>23110</id>
+      <il>23 ELAZIĞ</il>
+      <ilce>Alacakaya</ilce>
+      <isim>Alacakaya Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24260</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Merkez</ilce>
+      <isim>Fevzipaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>24101</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Çayırlı</ilce>
+      <isim>Çayırlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24102</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>İliç</ilce>
+      <isim>İliç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24103</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Kemah</ilce>
+      <isim>Kemah Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24104</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Kemaliye</ilce>
+      <isim>Kemaliye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24105</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Refahiye</ilce>
+      <isim>Refahiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24106</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Tercan</ilce>
+      <isim>Tercan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24107</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Üzümlü</ilce>
+      <isim>Üzümlü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>24108</id>
+      <il>24 ERZİNCAN</il>
+      <ilce>Otlukbeli</ilce>
+      <isim>Otlukbeli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25251</id>
+      <il>25 ERZURUM</il>
+      <ilce>Merkez</ilce>
+      <isim>Aziziye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>25280</id>
+      <il>25 ERZURUM</il>
+      <ilce>Merkez</ilce>
+      <isim>Kazımkarabekir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>25101</id>
+      <il>25 ERZURUM</il>
+      <ilce>Aşkale</ilce>
+      <isim>Aşkale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25102</id>
+      <il>25 ERZURUM</il>
+      <ilce>Çat</ilce>
+      <isim>Çat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25103</id>
+      <il>25 ERZURUM</il>
+      <ilce>Hınıs</ilce>
+      <isim>Hınıs Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25104</id>
+      <il>25 ERZURUM</il>
+      <ilce>Horasan</ilce>
+      <isim>Horasan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25105</id>
+      <il>25 ERZURUM</il>
+      <ilce>İspir</ilce>
+      <isim>İspir Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25106</id>
+      <il>25 ERZURUM</il>
+      <ilce>Karayazı</ilce>
+      <isim>Karayazı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25107</id>
+      <il>25 ERZURUM</il>
+      <ilce>Narman</ilce>
+      <isim>Narman Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25108</id>
+      <il>25 ERZURUM</il>
+      <ilce>Oltu</ilce>
+      <isim>Oltu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25109</id>
+      <il>25 ERZURUM</il>
+      <ilce>Olur</ilce>
+      <isim>Olur Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25110</id>
+      <il>25 ERZURUM</il>
+      <ilce>Pasinler</ilce>
+      <isim>Pasinler Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25111</id>
+      <il>25 ERZURUM</il>
+      <ilce>Şenkaya</ilce>
+      <isim>Şenkaya Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25112</id>
+      <il>25 ERZURUM</il>
+      <ilce>Tekman</ilce>
+      <isim>Tekman Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25113</id>
+      <il>25 ERZURUM</il>
+      <ilce>Tortum</ilce>
+      <isim>Tortum Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25114</id>
+      <il>25 ERZURUM</il>
+      <ilce>Karaçoban</ilce>
+      <isim>Karaçoban Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25115</id>
+      <il>25 ERZURUM</il>
+      <ilce>Uzundere</ilce>
+      <isim>Uzundere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25116</id>
+      <il>25 ERZURUM</il>
+      <ilce>Pazaryolu</ilce>
+      <isim>Pazaryolu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>25117</id>
+      <il>25 ERZURUM</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Aziziye Malmüdürlüğü  (Ilıca)</isim>
+   </element>
+   <element>
+      <id>25118</id>
+      <il>25 ERZURUM</il>
+      <ilce>Köprüköy</ilce>
+      <isim>Köprüköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26250</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Merkez Başkanlık</ilce>
+      <isim>Eskişehir Vergi Dairesi Başkanlığı (*)</isim>
+   </element>
+   <element>
+      <id>26102</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Mahmudiye</ilce>
+      <isim>Mahmudiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26103</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Mihalıççık</ilce>
+      <isim>Mihalıççık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26104</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Sarıcakaya</ilce>
+      <isim>Sarıcakaya Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26105</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Seyitgazi</ilce>
+      <isim>Seyitgazi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26107</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Alpu</ilce>
+      <isim>Alpu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26108</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Beylikova</ilce>
+      <isim>Beylikova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26109</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>İnönü</ilce>
+      <isim>İnönü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26110</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Günyüzü</ilce>
+      <isim>Günyüzü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26111</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Han</ilce>
+      <isim>Han Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>26112</id>
+      <il>26 ESKİŞEHİR</il>
+      <ilce>Mihalgazi</ilce>
+      <isim>Mihalgazi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>27250</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez</ilce>
+      <isim>Gaziantep İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27251</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez</ilce>
+      <isim>Suburcu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27252</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez</ilce>
+      <isim>Şehitkâmil Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27253</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez</ilce>
+      <isim>Şahinbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27254</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez</ilce>
+      <isim>Gazikent Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27255</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez</ilce>
+      <isim>Kozanlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27202</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Nizip</ilce>
+      <isim>Nizip Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27203</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>İslahiye</ilce>
+      <isim>İslahiye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>27101</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Araban</ilce>
+      <isim>Araban Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>27105</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Oğuzeli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>27106</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Yavuzeli</ilce>
+      <isim>Yavuzeli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>27107</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Karkamış</ilce>
+      <isim>Karkamış Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>27108</id>
+      <il>27 GAZİANTEP</il>
+      <ilce>Nurdağı</ilce>
+      <isim>Nurdağı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28260</id>
+      <il>28 GİRESUN</il>
+      <ilce>Merkez</ilce>
+      <isim>Giresun Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>28261</id>
+      <il>28 GİRESUN</il>
+      <ilce>Bulancak</ilce>
+      <isim>Bulancak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>28101</id>
+      <il>28 GİRESUN</il>
+      <ilce>Alucra</ilce>
+      <isim>Alucra Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28103</id>
+      <il>28 GİRESUN</il>
+      <ilce>Dereli</ilce>
+      <isim>Dereli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28104</id>
+      <il>28 GİRESUN</il>
+      <ilce>Espiye</ilce>
+      <isim>Espiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28105</id>
+      <il>28 GİRESUN</il>
+      <ilce>Eynesil</ilce>
+      <isim>Eynesil Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28106</id>
+      <il>28 GİRESUN</il>
+      <ilce>Görele</ilce>
+      <isim>Görele Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28107</id>
+      <il>28 GİRESUN</il>
+      <ilce>Keşap</ilce>
+      <isim>Keşap Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28108</id>
+      <il>28 GİRESUN</il>
+      <ilce>Şebinkarahisar</ilce>
+      <isim>Şebinkarahisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28109</id>
+      <il>28 GİRESUN</il>
+      <ilce>Tirebolu</ilce>
+      <isim>Tirebolu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28110</id>
+      <il>28 GİRESUN</il>
+      <ilce>Piraziz</ilce>
+      <isim>Piraziz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28111</id>
+      <il>28 GİRESUN</il>
+      <ilce>Yağlıdere</ilce>
+      <isim>Yağlıdere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28112</id>
+      <il>28 GİRESUN</il>
+      <ilce>Çanakçı</ilce>
+      <isim>Çanakçı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28113</id>
+      <il>28 GİRESUN</il>
+      <ilce>Güce</ilce>
+      <isim>Güce Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28114</id>
+      <il>28 GİRESUN</il>
+      <ilce>Çamoluk</ilce>
+      <isim>Çamoluk Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>28115</id>
+      <il>28 GİRESUN</il>
+      <ilce>Doğankent</ilce>
+      <isim>Doğankent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>29260</id>
+      <il>29 GÜMÜŞHANE</il>
+      <ilce>Merkez</ilce>
+      <isim>Gümüşhane Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>29102</id>
+      <il>29 GÜMÜŞHANE</il>
+      <ilce>Kelkit</ilce>
+      <isim>Kelkit Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>29103</id>
+      <il>29 GÜMÜŞHANE</il>
+      <ilce>Şiran</ilce>
+      <isim>Şiran Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>29104</id>
+      <il>29 GÜMÜŞHANE</il>
+      <ilce>Torul</ilce>
+      <isim>Torul Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>29107</id>
+      <il>29 GÜMÜŞHANE</il>
+      <ilce>Köse</ilce>
+      <isim>Köse Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>29108</id>
+      <il>29 GÜMÜŞHANE</il>
+      <ilce>Kürtün</ilce>
+      <isim>Kürtün Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>30260</id>
+      <il>30 HAKKARİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Hakkari Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>30261</id>
+      <il>30 HAKKARİ</il>
+      <ilce>Yüksekova</ilce>
+      <isim>Yüksekova  Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>30102</id>
+      <il>30 HAKKARİ</il>
+      <ilce>Çukurca</ilce>
+      <isim>Çukurca Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>30103</id>
+      <il>30 HAKKARİ</il>
+      <ilce>Şemdinli</ilce>
+      <isim>Şemdinli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>30104</id>
+      <il>30 HAKKARİ</il>
+      <ilce>Derecik</ilce>
+      <isim>Derecik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>31201</id>
+      <il>31 HATAY</il>
+      <ilce>Merkez</ilce>
+      <isim>23 Temmuz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31203</id>
+      <il>31 HATAY</il>
+      <ilce>Merkez</ilce>
+      <isim>Antakya Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31280</id>
+      <il>31 HATAY</il>
+      <ilce>Merkez</ilce>
+      <isim>Şükrükanatlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31202</id>
+      <il>31 HATAY</il>
+      <ilce>İskenderun</ilce>
+      <isim>Sahil Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31281</id>
+      <il>31 HATAY</il>
+      <ilce>İskenderun</ilce>
+      <isim>Akdeniz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31290</id>
+      <il>31 HATAY</il>
+      <ilce>İskenderun</ilce>
+      <isim>Asım Gündüz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31260</id>
+      <il>31 HATAY</il>
+      <ilce>Dörtyol</ilce>
+      <isim>Dörtyol  Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31261</id>
+      <il>31 HATAY</il>
+      <ilce>Kırıkhan</ilce>
+      <isim>Kırıkhan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31262</id>
+      <il>31 HATAY</il>
+      <ilce>Reyhanlı</ilce>
+      <isim>Reyhanlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31263</id>
+      <il>31 HATAY</il>
+      <ilce>Samandağ</ilce>
+      <isim>Samandağ Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>31101</id>
+      <il>31 HATAY</il>
+      <ilce>Altınözü</ilce>
+      <isim>Altınözü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>31103</id>
+      <il>31 HATAY</il>
+      <ilce>Hassa</ilce>
+      <isim>Hassa Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>31108</id>
+      <il>31 HATAY</il>
+      <ilce>Yayladağı</ilce>
+      <isim>Yayladağı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>31109</id>
+      <il>31 HATAY</il>
+      <ilce>Erzin</ilce>
+      <isim>Erzin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>31110</id>
+      <il>31 HATAY</il>
+      <ilce>Belen</ilce>
+      <isim>Belen Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>31111</id>
+      <il>31 HATAY</il>
+      <ilce>Kumlu</ilce>
+      <isim>Kumlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32201</id>
+      <il>32 ISPARTA</il>
+      <ilce>Merkez</ilce>
+      <isim>Davraz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>32260</id>
+      <il>32 ISPARTA</il>
+      <ilce>Merkez</ilce>
+      <isim>Kaymakkapı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>32261</id>
+      <il>32 ISPARTA</il>
+      <ilce>Eğirdir</ilce>
+      <isim>Eğirdir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>32262</id>
+      <il>32 ISPARTA</il>
+      <ilce>Yalvaç</ilce>
+      <isim>Yalvaç Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>32101</id>
+      <il>32 ISPARTA</il>
+      <ilce>Atabey</ilce>
+      <isim>Atabey Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32103</id>
+      <il>32 ISPARTA</il>
+      <ilce>Gelendost</ilce>
+      <isim>Gelendost Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32104</id>
+      <il>32 ISPARTA</il>
+      <ilce>Keçiborlu</ilce>
+      <isim>Keçiborlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32105</id>
+      <il>32 ISPARTA</il>
+      <ilce>Senirkent</ilce>
+      <isim>Senirkent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32106</id>
+      <il>32 ISPARTA</il>
+      <ilce>Sütçüler</ilce>
+      <isim>Sütçüler Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32107</id>
+      <il>32 ISPARTA</il>
+      <ilce>Şarkikaraağaç</ilce>
+      <isim>Şarkikaraağaç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32108</id>
+      <il>32 ISPARTA</il>
+      <ilce>Uluborlu</ilce>
+      <isim>Uluborlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32110</id>
+      <il>32 ISPARTA</il>
+      <ilce>Aksu</ilce>
+      <isim>Aksu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32111</id>
+      <il>32 ISPARTA</il>
+      <ilce>Gönen</ilce>
+      <isim>Gönen Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>32112</id>
+      <il>32 ISPARTA</il>
+      <ilce>Yenişarbademli</ilce>
+      <isim>Yenişarbademli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>33250</id>
+      <il>33 MERSİN</il>
+      <ilce>Merkez</ilce>
+      <isim>İstiklâl Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33252</id>
+      <il>33 MERSİN</il>
+      <ilce>Merkez</ilce>
+      <isim>Uray Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33254</id>
+      <il>33 MERSİN</il>
+      <ilce>Merkez</ilce>
+      <isim>Liman Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33255</id>
+      <il>33 MERSİN</il>
+      <ilce>Merkez</ilce>
+      <isim>Toros Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33256</id>
+      <il>33 MERSİN</il>
+      <ilce>Merkez</ilce>
+      <isim>Mersin İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33201</id>
+      <il>33 MERSİN</il>
+      <ilce>Erdemli</ilce>
+      <isim>Erdemli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33202</id>
+      <il>33 MERSİN</il>
+      <ilce>Silifke</ilce>
+      <isim>Silifke Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33203</id>
+      <il>33 MERSİN</il>
+      <ilce>Anamur</ilce>
+      <isim>Anamur Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33204</id>
+      <il>33 MERSİN</il>
+      <ilce>Tarsus</ilce>
+      <isim>Kızılmurat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33205</id>
+      <il>33 MERSİN</il>
+      <ilce>Tarsus</ilce>
+      <isim>Şehitkerim Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>33103</id>
+      <il>33 MERSİN</il>
+      <ilce>Gülnar</ilce>
+      <isim>Gülnar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>33104</id>
+      <il>33 MERSİN</il>
+      <ilce>Mut</ilce>
+      <isim>Mut Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>33107</id>
+      <il>33 MERSİN</il>
+      <ilce>Aydıncık</ilce>
+      <isim>Aydıncık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>33108</id>
+      <il>33 MERSİN</il>
+      <ilce>Bozyazı</ilce>
+      <isim>Bozyazı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>33109</id>
+      <il>33 MERSİN</il>
+      <ilce>Çamlıyayla</ilce>
+      <isim>Çamlıyayla Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>34220</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Haliç İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34221</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Vatan İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34222</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Çamlıca İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34223</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Alemdağ Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34224</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Yenikapı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34230</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez Başkanlık</ilce>
+      <isim>Büyük Mükellefler Vergi Dairesi Başkanlığı (*)</isim>
+   </element>
+   <element>
+      <id>34231</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Boğaziçi Kurumlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34232</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Marmara Kurumlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34234</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Davutpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34235</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Esenler Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34236</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Fatih Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34237</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Küçükköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34239</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Merter Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34242</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Sultanbeyli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34244</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Anadolu Kurumlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34245</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Tuzla Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34246</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kozyatağı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34247</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Maslak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34248</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Zincirlikuyu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34249</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>İkitelli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34251</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Beşiktaş Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34252</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Ümraniye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34253</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Yeditepe Veraset ve Harçlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34254</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kasımpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34255</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Erenköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34256</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Hisar Veraset ve Harçlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34257</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Tuna Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34258</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Rıhtım Veraset ve Harçlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34259</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Güngören Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34260</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kocasinan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34261</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Güneşli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34262</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Küçükyalı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34263</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Pendik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34264</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Bayrampaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34265</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Beyazıt Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34266</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Beyoğlu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34269</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Gaziosmanpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34270</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Göztepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34271</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Hocapaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34272</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kadıköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34273</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kocamustafapaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34274</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Mecidiyeköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34276</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Şişli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34277</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Üsküdar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34278</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Halkalı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34279</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kağıthane Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34280</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Zeytinburnu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34281</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Beykoz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34283</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Sarıyer Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34284</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Bakırköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34285</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Kartal Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34287</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Nakil Vasıtaları Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34288</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Sarıgazi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34291</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Atışalanı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34292</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Yakacık Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34293</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Yenibosna Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34294</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Avcılar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34295</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Adalar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34296</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Küçükçekmece Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34297</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Beylikdüzü Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34298</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez</ilce>
+      <isim>Esenyurt Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34203</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Silivri Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34204</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Büyükçekmece Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>34205</id>
+      <il>34 İSTANBUL</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Şile Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35250</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>İzmir İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35251</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>9 Eylül Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35252</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Yamanlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35254</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Belkahve Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35256</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Karşıyaka Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35257</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Kemeraltı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35258</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Konak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35259</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Kordon Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35260</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Şirinyer Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35261</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Kadifekale Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35262</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Taşıtlar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35263</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Hasan Tahsin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35264</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Bornova Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35266</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Balçova Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35267</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Gaziemir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35268</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Ege Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35269</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Çiğli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35270</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Çakabey İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35201</id>
+      <il>35 İZMİR</il>
+      <ilce>Bayındır</ilce>
+      <isim>Bayındır Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35202</id>
+      <il>35 İZMİR</il>
+      <ilce>Bergama</ilce>
+      <isim>Bergama Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35203</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Menemen Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35204</id>
+      <il>35 İZMİR</il>
+      <ilce>Ödemiş</ilce>
+      <isim>Ödemiş Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35205</id>
+      <il>35 İZMİR</il>
+      <ilce>Tire</ilce>
+      <isim>Tire Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35206</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Torbalı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35207</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Kemalpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35208</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Urla Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35209</id>
+      <il>35 İZMİR</il>
+      <ilce>Selçuk</ilce>
+      <isim>Selçuk Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35210</id>
+      <il>35 İZMİR</il>
+      <ilce>Kınık</ilce>
+      <isim>Kınık Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35211</id>
+      <il>35 İZMİR</il>
+      <ilce>Kiraz</ilce>
+      <isim>Kiraz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35212</id>
+      <il>35 İZMİR</il>
+      <ilce>Çeşme</ilce>
+      <isim>Çeşme Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35213</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Aliağa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35215</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Menderes Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>35105</id>
+      <il>35 İZMİR</il>
+      <ilce>Dikili</ilce>
+      <isim>Dikili Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>35106</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Foça Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>35107</id>
+      <il>35 İZMİR</il>
+      <ilce>Karaburun</ilce>
+      <isim>Karaburun Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>35114</id>
+      <il>35 İZMİR</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Seferihisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>35120</id>
+      <il>35 İZMİR</il>
+      <ilce>Beydağ</ilce>
+      <isim>Beydağ Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36260</id>
+      <il>36 KARS</il>
+      <ilce>Merkez</ilce>
+      <isim>Kars Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>36103</id>
+      <il>36 KARS</il>
+      <ilce>Arpaçay</ilce>
+      <isim>Arpaçay Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36105</id>
+      <il>36 KARS</il>
+      <ilce>Digor</ilce>
+      <isim>Digor Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36109</id>
+      <il>36 KARS</il>
+      <ilce>Kağızman</ilce>
+      <isim>Kağızman Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36111</id>
+      <il>36 KARS</il>
+      <ilce>Sarıkamış</ilce>
+      <isim>Sarıkamış Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36112</id>
+      <il>36 KARS</il>
+      <ilce>Selim</ilce>
+      <isim>Selim Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36113</id>
+      <il>36 KARS</il>
+      <ilce>Susuz</ilce>
+      <isim>Susuz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>36115</id>
+      <il>36 KARS</il>
+      <ilce>Akyaka</ilce>
+      <isim>Akyaka Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37260</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Merkez</ilce>
+      <isim>Kastamonu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>37261</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Tosya</ilce>
+      <isim>Tosya Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>37262</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Taşköprü</ilce>
+      <isim>Taşköprü Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>37101</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Araç</ilce>
+      <isim>Araç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37102</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Azdavay</ilce>
+      <isim>Azdavay Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37103</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Bozkurt</ilce>
+      <isim>Bozkurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37104</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Cide</ilce>
+      <isim>Cide Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37105</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Çatalzeytin</ilce>
+      <isim>Çatalzeytin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37106</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Daday</ilce>
+      <isim>Daday Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37107</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Devrekani</ilce>
+      <isim>Devrekani Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37108</id>
+      <il>37 KASTAMONU</il>
+      <ilce>İnebolu</ilce>
+      <isim>İnebolu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37109</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Küre</ilce>
+      <isim>Küre Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37112</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Abana</ilce>
+      <isim>Abana Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37113</id>
+      <il>37 KASTAMONU</il>
+      <ilce>İhsangazi</ilce>
+      <isim>İhsangazi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37114</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Pınarbaşı</ilce>
+      <isim>Pınarbaşı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37115</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Şenpazar</ilce>
+      <isim>Şenpazar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37116</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Ağlı</ilce>
+      <isim>Ağlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37117</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Doğanyurt</ilce>
+      <isim>Doğanyurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37118</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Hanönü</ilce>
+      <isim>Hanönü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>37119</id>
+      <il>37 KASTAMONU</il>
+      <ilce>Seydiler</ilce>
+      <isim>Seydiler Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38250</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Kayseri İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38251</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Mimar Sinan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38252</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Erciyes Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38253</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Kaleönü Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38254</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Gevher Nesibe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38201</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Develi</ilce>
+      <isim>Develi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38202</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Pınarbaşı</ilce>
+      <isim>Pınarbaşı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38203</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Bünyan</ilce>
+      <isim>Bünyan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>38103</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Felahiye</ilce>
+      <isim>Felahiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38104</id>
+      <il>38 KAYSERİ</il>
+      <ilce>İncesu</ilce>
+      <isim>İncesu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38106</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Sarıoğlan</ilce>
+      <isim>Sarıoğlan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38107</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Sarız</ilce>
+      <isim>Sarız Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38108</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Tomarza</ilce>
+      <isim>Tomarza Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38109</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Yahyalı</ilce>
+      <isim>Yahyalı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38110</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Yeşilhisar</ilce>
+      <isim>Yeşilhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38111</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Akkışla</ilce>
+      <isim>Akkışla Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38113</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Hacılar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>38114</id>
+      <il>38 KAYSERİ</il>
+      <ilce>Özvatan</ilce>
+      <isim>Özvatan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>39260</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Kırklareli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>39261</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Lüleburgaz</ilce>
+      <isim>Lüleburgaz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>39262</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Babaeski</ilce>
+      <isim>Babaeski Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>39102</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Demirköy</ilce>
+      <isim>Demirköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>39103</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Kofçaz</ilce>
+      <isim>Kofçaz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>39105</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Pehlivanköy</ilce>
+      <isim>Pehlivanköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>39106</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Pınarhisar</ilce>
+      <isim>Pınarhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>39107</id>
+      <il>39 KIRKLARELİ</il>
+      <ilce>Vize</ilce>
+      <isim>Vize Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>40260</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Kırşehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>40261</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Kaman</ilce>
+      <isim>Kaman Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>40101</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Çiçekdağı</ilce>
+      <isim>Çiçekdağı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>40103</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Mucur</ilce>
+      <isim>Mucur Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>40104</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Akpınar</ilce>
+      <isim>Akpınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>40105</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Akçakent</ilce>
+      <isim>Akçakent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>40106</id>
+      <il>40 KIRŞEHİR</il>
+      <ilce>Boztepe</ilce>
+      <isim>Boztepe Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>41250</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Kocaeli İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41252</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Tepecik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41253</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Alemdar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41254</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez Gebze</ilce>
+      <isim>Gebze İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41290</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Acısu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41202</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Uluçınar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41203</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>İlyasbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41204</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Gölcük Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41205</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Karamürsel Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41206</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Körfez Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41207</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Derince Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>41103</id>
+      <il>41 KOCAELİ</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Kandıra Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42250</id>
+      <il>42 KONYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Konya İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42251</id>
+      <il>42 KONYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Selçuk Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42252</id>
+      <il>42 KONYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Mevlana Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42253</id>
+      <il>42 KONYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Meram Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42254</id>
+      <il>42 KONYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Alaaddin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42201</id>
+      <il>42 KONYA</il>
+      <ilce>Akşehir</ilce>
+      <isim>Akşehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42202</id>
+      <il>42 KONYA</il>
+      <ilce>Ereğli</ilce>
+      <isim>Ereğli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42204</id>
+      <il>42 KONYA</il>
+      <ilce>Beyşehir</ilce>
+      <isim>Beyşehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42205</id>
+      <il>42 KONYA</il>
+      <ilce>Cihanbeyli</ilce>
+      <isim>Cihanbeyli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42206</id>
+      <il>42 KONYA</il>
+      <ilce>Çumra</ilce>
+      <isim>Çumra Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42207</id>
+      <il>42 KONYA</il>
+      <ilce>Seydişehir</ilce>
+      <isim>Seydişehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42208</id>
+      <il>42 KONYA</il>
+      <ilce>Ilgın</ilce>
+      <isim>Ilgın Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42209</id>
+      <il>42 KONYA</il>
+      <ilce>Kulu</ilce>
+      <isim>Kulu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42210</id>
+      <il>42 KONYA</il>
+      <ilce>Karapınar</ilce>
+      <isim>Karapınar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>42103</id>
+      <il>42 KONYA</il>
+      <ilce>Bozkır</ilce>
+      <isim>Bozkır Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42106</id>
+      <il>42 KONYA</il>
+      <ilce>Doğanhisar</ilce>
+      <isim>Doğanhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42109</id>
+      <il>42 KONYA</il>
+      <ilce>Hadim</ilce>
+      <isim>Hadim Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42111</id>
+      <il>42 KONYA</il>
+      <ilce>Kadınhanı</ilce>
+      <isim>Kadınhanı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42115</id>
+      <il>42 KONYA</il>
+      <ilce>Sarayönü</ilce>
+      <isim>Sarayönü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42117</id>
+      <il>42 KONYA</il>
+      <ilce>Yunak</ilce>
+      <isim>Yunak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42118</id>
+      <il>42 KONYA</il>
+      <ilce>Akören</ilce>
+      <isim>Akören Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42119</id>
+      <il>42 KONYA</il>
+      <ilce>Altınekin</ilce>
+      <isim>Altınekin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42121</id>
+      <il>42 KONYA</il>
+      <ilce>Derebucak</ilce>
+      <isim>Derebucak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42122</id>
+      <il>42 KONYA</il>
+      <ilce>Hüyük</ilce>
+      <isim>Hüyük Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42123</id>
+      <il>42 KONYA</il>
+      <ilce>Taşkent</ilce>
+      <isim>Taşkent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42124</id>
+      <il>42 KONYA</il>
+      <ilce>Ahırlı</ilce>
+      <isim>Ahırlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42125</id>
+      <il>42 KONYA</il>
+      <ilce>Çeltik</ilce>
+      <isim>Çeltik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42126</id>
+      <il>42 KONYA</il>
+      <ilce>Derbent</ilce>
+      <isim>Derbent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42127</id>
+      <il>42 KONYA</il>
+      <ilce>Emirgazi</ilce>
+      <isim>Emirgazi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42128</id>
+      <il>42 KONYA</il>
+      <ilce>Güneysınır</ilce>
+      <isim>Güneysınır Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42129</id>
+      <il>42 KONYA</il>
+      <ilce>Halkapınar</ilce>
+      <isim>Halkapınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42130</id>
+      <il>42 KONYA</il>
+      <ilce>Tuzlukçu</ilce>
+      <isim>Tuzlukçu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>42131</id>
+      <il>42 KONYA</il>
+      <ilce>Yalıhüyük</ilce>
+      <isim>Yalıhüyük Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43201</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Merkez</ilce>
+      <isim>30 Ağustos Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>43280</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Çinili Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>43260</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Gediz</ilce>
+      <isim>Gediz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>43261</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Simav</ilce>
+      <isim>Simav Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>43262</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Tavşanlı</ilce>
+      <isim>Tavşanlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>43263</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Emet</ilce>
+      <isim>Emet Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>43101</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Altıntaş</ilce>
+      <isim>Altıntaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43102</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Domaniç</ilce>
+      <isim>Domaniç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43107</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Aslanapa</ilce>
+      <isim>Aslanapa Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43108</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Dumlupınar</ilce>
+      <isim>Dumlupınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43109</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Hisarcık</ilce>
+      <isim>Hisarcık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43110</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Şaphane</ilce>
+      <isim>Şaphane Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43111</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Çavdarhisar</ilce>
+      <isim>Çavdarhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>43112</id>
+      <il>43 KÜTAHYA</il>
+      <ilce>Pazarlar</ilce>
+      <isim>Pazarlar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44251</id>
+      <il>44 MALATYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Fırat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>44252</id>
+      <il>44 MALATYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Beydağı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>44101</id>
+      <il>44 MALATYA</il>
+      <ilce>Akçadağ</ilce>
+      <isim>Akçadağ Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44102</id>
+      <il>44 MALATYA</il>
+      <ilce>Arapgir</ilce>
+      <isim>Arapgir Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44103</id>
+      <il>44 MALATYA</il>
+      <ilce>Arguvan</ilce>
+      <isim>Arguvan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44104</id>
+      <il>44 MALATYA</il>
+      <ilce>Darende</ilce>
+      <isim>Darende Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44105</id>
+      <il>44 MALATYA</il>
+      <ilce>Doğanşehir</ilce>
+      <isim>Doğanşehir Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44106</id>
+      <il>44 MALATYA</il>
+      <ilce>Hekimhan</ilce>
+      <isim>Hekimhan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44107</id>
+      <il>44 MALATYA</il>
+      <ilce>Pütürge</ilce>
+      <isim>Pütürge Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44108</id>
+      <il>44 MALATYA</il>
+      <ilce>Yeşilyurt</ilce>
+      <isim>Yeşilyurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44109</id>
+      <il>44 MALATYA</il>
+      <ilce>Battalgazi</ilce>
+      <isim>Battalgazi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44110</id>
+      <il>44 MALATYA</il>
+      <ilce>Doğanyol</ilce>
+      <isim>Doğanyol Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44111</id>
+      <il>44 MALATYA</il>
+      <ilce>Kale</ilce>
+      <isim>Kale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44112</id>
+      <il>44 MALATYA</il>
+      <ilce>Kuluncak</ilce>
+      <isim>Kuluncak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>44113</id>
+      <il>44 MALATYA</il>
+      <ilce>Yazıhan</ilce>
+      <isim>Yazıhan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>45250</id>
+      <il>45 MANİSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Manisa İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45251</id>
+      <il>45 MANİSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Şehit Cihan Güneş Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45252</id>
+      <il>45 MANİSA</il>
+      <ilce>Merkez</ilce>
+      <isim>Mesir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45201</id>
+      <il>45 MANİSA</il>
+      <ilce>Akhisar</ilce>
+      <isim>Akhisar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45202</id>
+      <il>45 MANİSA</il>
+      <ilce>Alaşehir</ilce>
+      <isim>Alaşehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45203</id>
+      <il>45 MANİSA</il>
+      <ilce>Demirci</ilce>
+      <isim>Demirci Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45204</id>
+      <il>45 MANİSA</il>
+      <ilce>Kırkağaç</ilce>
+      <isim>Kırkağaç Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45205</id>
+      <il>45 MANİSA</il>
+      <ilce>Salihli</ilce>
+      <isim>Salihli Adil Oral Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45206</id>
+      <il>45 MANİSA</il>
+      <ilce>Sarıgöl</ilce>
+      <isim>Sarıgöl Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45207</id>
+      <il>45 MANİSA</il>
+      <ilce>Saruhanlı</ilce>
+      <isim>Saruhanlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45208</id>
+      <il>45 MANİSA</il>
+      <ilce>Soma</ilce>
+      <isim>Soma Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45209</id>
+      <il>45 MANİSA</il>
+      <ilce>Turgutlu</ilce>
+      <isim>Turgutlu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45210</id>
+      <il>45 MANİSA</il>
+      <ilce>Gördes</ilce>
+      <isim>Gördes Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45211</id>
+      <il>45 MANİSA</il>
+      <ilce>Kula</ilce>
+      <isim>Kula Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>45110</id>
+      <il>45 MANİSA</il>
+      <ilce>Selendi</ilce>
+      <isim>Selendi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>45113</id>
+      <il>45 MANİSA</il>
+      <ilce>Ahmetli</ilce>
+      <isim>Ahmetli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>45114</id>
+      <il>45 MANİSA</il>
+      <ilce>Gölmarmara</ilce>
+      <isim>Gölmarmara Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>45115</id>
+      <il>45 MANİSA</il>
+      <ilce>Köprübaşı</ilce>
+      <isim>Köprübaşı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>46201</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Aslanbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>46280</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Aksu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>46260</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Elbistan</ilce>
+      <isim>Elbistan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>46261</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Afşin</ilce>
+      <isim>Afşin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>46262</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Pazarcık</ilce>
+      <isim>Pazarcık Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>46102</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Andırın</ilce>
+      <isim>Andırın Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>46104</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Göksun</ilce>
+      <isim>Göksun Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>46106</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Türkoğlu</ilce>
+      <isim>Türkoğlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>46107</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Çağlayancerit</ilce>
+      <isim>Çağlayancerit Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>46108</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Ekinözü</ilce>
+      <isim>Ekinözü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>46109</id>
+      <il>46 KAHRAMANMARAŞ</il>
+      <ilce>Nurhak</ilce>
+      <isim>Nurhak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47260</id>
+      <il>47 MARDİN</il>
+      <ilce>Merkez</ilce>
+      <isim>Mardin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>47261</id>
+      <il>47 MARDİN</il>
+      <ilce>Kızıltepe</ilce>
+      <isim>Kızıltepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>47262</id>
+      <il>47 MARDİN</il>
+      <ilce>Nusaybin</ilce>
+      <isim>Nusaybin Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>47102</id>
+      <il>47 MARDİN</il>
+      <ilce>Derik</ilce>
+      <isim>Derik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47106</id>
+      <il>47 MARDİN</il>
+      <ilce>Mazıdağı</ilce>
+      <isim>Mazıdağı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47107</id>
+      <il>47 MARDİN</il>
+      <ilce>Midyat</ilce>
+      <isim>Midyat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47109</id>
+      <il>47 MARDİN</il>
+      <ilce>Ömerli</ilce>
+      <isim>Ömerli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47110</id>
+      <il>47 MARDİN</il>
+      <ilce>Savur</ilce>
+      <isim>Savur Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47112</id>
+      <il>47 MARDİN</il>
+      <ilce>Dargeçit</ilce>
+      <isim>Dargeçit Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>47113</id>
+      <il>47 MARDİN</il>
+      <ilce>Yeşilli</ilce>
+      <isim>Yeşilli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>48260</id>
+      <il>48 MUĞLA</il>
+      <ilce>Merkez</ilce>
+      <isim>Muğla Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48261</id>
+      <il>48 MUĞLA</il>
+      <ilce>Bodrum</ilce>
+      <isim>Bodrum Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48262</id>
+      <il>48 MUĞLA</il>
+      <ilce>Fethiye</ilce>
+      <isim>Fethiye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48263</id>
+      <il>48 MUĞLA</il>
+      <ilce>Köyceğiz</ilce>
+      <isim>Köyceğiz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48264</id>
+      <il>48 MUĞLA</il>
+      <ilce>Milas</ilce>
+      <isim>Milas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48265</id>
+      <il>48 MUĞLA</il>
+      <ilce>Marmaris</ilce>
+      <isim>Marmaris Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48266</id>
+      <il>48 MUĞLA</il>
+      <ilce>Yatağan</ilce>
+      <isim>Yatağan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>48102</id>
+      <il>48 MUĞLA</il>
+      <ilce>Datça</ilce>
+      <isim>Datça Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>48108</id>
+      <il>48 MUĞLA</il>
+      <ilce>Ula</ilce>
+      <isim>Ula Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>48109</id>
+      <il>48 MUĞLA</il>
+      <ilce>Dalaman</ilce>
+      <isim>Dalaman Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>48110</id>
+      <il>48 MUĞLA</il>
+      <ilce>Ortaca</ilce>
+      <isim>Ortaca Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>48111</id>
+      <il>48 MUĞLA</il>
+      <ilce>Kavaklıdere</ilce>
+      <isim>Kavaklıdere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>48113</id>
+      <il>48 MUĞLA</il>
+      <ilce>Seydiemer</ilce>
+      <isim>Seydikemer Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>49260</id>
+      <il>49 MUŞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Muş Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>49101</id>
+      <il>49 MUŞ</il>
+      <ilce>Bulanık</ilce>
+      <isim>Bulanık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>49102</id>
+      <il>49 MUŞ</il>
+      <ilce>Malazgirt</ilce>
+      <isim>Malazgirt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>49103</id>
+      <il>49 MUŞ</il>
+      <ilce>Varto</ilce>
+      <isim>Varto Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>49104</id>
+      <il>49 MUŞ</il>
+      <ilce>Hasköy</ilce>
+      <isim>Hasköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>49105</id>
+      <il>49 MUŞ</il>
+      <ilce>Korkut</ilce>
+      <isim>Korkut Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50260</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Merkez</ilce>
+      <isim>Nevşehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>50101</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Avanos</ilce>
+      <isim>Avanos Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50102</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Derinkuyu</ilce>
+      <isim>Derinkuyu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50103</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Gülşehir</ilce>
+      <isim>Gülşehir Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50104</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Hacıbektaş</ilce>
+      <isim>Hacıbektaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50105</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Kozaklı</ilce>
+      <isim>Kozaklı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50106</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Ürgüp</ilce>
+      <isim>Ürgüp Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>50107</id>
+      <il>50 NEVŞEHİR</il>
+      <ilce>Acıgöl</ilce>
+      <isim>Acıgöl Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>51260</id>
+      <il>51 NİĞDE</il>
+      <ilce>Merkez</ilce>
+      <isim>Niğde Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>51262</id>
+      <il>51 NİĞDE</il>
+      <ilce>Bor</ilce>
+      <isim>Bor Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>51103</id>
+      <il>51 NİĞDE</il>
+      <ilce>Çamardı</ilce>
+      <isim>Çamardı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>51105</id>
+      <il>51 NİĞDE</il>
+      <ilce>Ulukışla</ilce>
+      <isim>Ulukışla Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>51106</id>
+      <il>51 NİĞDE</il>
+      <ilce>Altunhisar</ilce>
+      <isim>Altunhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>51107</id>
+      <il>51 NİĞDE</il>
+      <ilce>Çiftlik</ilce>
+      <isim>Çiftlik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52201</id>
+      <il>52 ORDU</il>
+      <ilce>Merkez</ilce>
+      <isim>Boztepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>52260</id>
+      <il>52 ORDU</il>
+      <ilce>Merkez</ilce>
+      <isim>Köprübaşı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>52261</id>
+      <il>52 ORDU</il>
+      <ilce>Fatsa</ilce>
+      <isim>Fatsa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>52262</id>
+      <il>52 ORDU</il>
+      <ilce>Ünye</ilce>
+      <isim>Ünye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>52101</id>
+      <il>52 ORDU</il>
+      <ilce>Akkuş</ilce>
+      <isim>Akkuş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52102</id>
+      <il>52 ORDU</il>
+      <ilce>Aybastı</ilce>
+      <isim>Aybastı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52104</id>
+      <il>52 ORDU</il>
+      <ilce>Gölköy</ilce>
+      <isim>Gölköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52105</id>
+      <il>52 ORDU</il>
+      <ilce>Korgan</ilce>
+      <isim>Korgan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52106</id>
+      <il>52 ORDU</il>
+      <ilce>Kumru</ilce>
+      <isim>Kumru Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52107</id>
+      <il>52 ORDU</il>
+      <ilce>Mesudiye</ilce>
+      <isim>Mesudiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52108</id>
+      <il>52 ORDU</il>
+      <ilce>Perşembe</ilce>
+      <isim>Perşembe Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52109</id>
+      <il>52 ORDU</il>
+      <ilce>Ulubey</ilce>
+      <isim>Ulubey Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52111</id>
+      <il>52 ORDU</il>
+      <ilce>Gülyalı</ilce>
+      <isim>Gülyalı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52112</id>
+      <il>52 ORDU</il>
+      <ilce>Gürgentepe</ilce>
+      <isim>Gürgentepe Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52113</id>
+      <il>52 ORDU</il>
+      <ilce>Çamaş</ilce>
+      <isim>Çamaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52114</id>
+      <il>52 ORDU</il>
+      <ilce>Çatalpınar</ilce>
+      <isim>Çatalpınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52115</id>
+      <il>52 ORDU</il>
+      <ilce>Çaybaşı</ilce>
+      <isim>Çaybaşı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52116</id>
+      <il>52 ORDU</il>
+      <ilce>İkizce</ilce>
+      <isim>İkizce Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52117</id>
+      <il>52 ORDU</il>
+      <ilce>Kabadüz</ilce>
+      <isim>Kabadüz Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>52118</id>
+      <il>52 ORDU</il>
+      <ilce>Kabataş</ilce>
+      <isim>Kabataş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53201</id>
+      <il>53 RİZE</il>
+      <ilce>Merkez</ilce>
+      <isim>Kaçkar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>53260</id>
+      <il>53 RİZE</il>
+      <ilce>Merkez</ilce>
+      <isim>Yeşilçay Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>53261</id>
+      <il>53 RİZE</il>
+      <ilce>Çayeli</ilce>
+      <isim>Çayeli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>53262</id>
+      <il>53 RİZE</il>
+      <ilce>Pazar</ilce>
+      <isim>Pazar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>53263</id>
+      <il>53 RİZE</il>
+      <ilce>Ardeşen</ilce>
+      <isim>Ardeşen Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>53102</id>
+      <il>53 RİZE</il>
+      <ilce>Çamlıhemşin</ilce>
+      <isim>Çamlıhemşin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53104</id>
+      <il>53 RİZE</il>
+      <ilce>Fındıklı</ilce>
+      <isim>Fındıklı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53105</id>
+      <il>53 RİZE</il>
+      <ilce>İkizdere</ilce>
+      <isim>İkizdere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53106</id>
+      <il>53 RİZE</il>
+      <ilce>Kalkandere</ilce>
+      <isim>Kalkandere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53108</id>
+      <il>53 RİZE</il>
+      <ilce>Güneysu</ilce>
+      <isim>Güneysu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53109</id>
+      <il>53 RİZE</il>
+      <ilce>Derepazarı</ilce>
+      <isim>Derepazarı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53110</id>
+      <il>53 RİZE</il>
+      <ilce>Hemşin</ilce>
+      <isim>Hemşin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>53111</id>
+      <il>53 RİZE</il>
+      <ilce>İyidere</ilce>
+      <isim>İyidere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>54250</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Sakarya İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54251</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Gümrükönü Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54252</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez</ilce>
+      <isim>Ali Fuat Cebesoy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54253</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Sapanca Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54201</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Akyazı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54202</id>
+      <il>54 SAKARYA</il>
+      <ilce>Geyve</ilce>
+      <isim>Geyve Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54203</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Hendek Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54204</id>
+      <il>54 SAKARYA</il>
+      <ilce>Karasu</ilce>
+      <isim>Karasu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>54105</id>
+      <il>54 SAKARYA</il>
+      <ilce>Kaynarca</ilce>
+      <isim>Kaynarca Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>54107</id>
+      <il>54 SAKARYA</il>
+      <ilce>Kocaali</ilce>
+      <isim>Kocaali Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>54108</id>
+      <il>54 SAKARYA</il>
+      <ilce>Pamukova</ilce>
+      <isim>Pamukova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>54109</id>
+      <il>54 SAKARYA</il>
+      <ilce>Taraklı</ilce>
+      <isim>Taraklı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>54111</id>
+      <il>54 SAKARYA</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Karapürçek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55251</id>
+      <il>55 SAMSUN</il>
+      <ilce>Merkez</ilce>
+      <isim>19 Mayıs Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55252</id>
+      <il>55 SAMSUN</il>
+      <ilce>Merkez</ilce>
+      <isim>Gaziler Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55290</id>
+      <il>55 SAMSUN</il>
+      <ilce>Merkez</ilce>
+      <isim>Zafer Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55202</id>
+      <il>55 SAMSUN</il>
+      <ilce>Bafra</ilce>
+      <isim>Bafra Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55203</id>
+      <il>55 SAMSUN</il>
+      <ilce>Çarşamba</ilce>
+      <isim>Çarşamba Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55204</id>
+      <il>55 SAMSUN</il>
+      <ilce>Terme</ilce>
+      <isim>Terme Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55205</id>
+      <il>55 SAMSUN</il>
+      <ilce>Havza</ilce>
+      <isim>Havza Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>55101</id>
+      <il>55 SAMSUN</il>
+      <ilce>Alaçam</ilce>
+      <isim>Alaçam Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55105</id>
+      <il>55 SAMSUN</il>
+      <ilce>Kavak</ilce>
+      <isim>Kavak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55106</id>
+      <il>55 SAMSUN</il>
+      <ilce>Ladik</ilce>
+      <isim>Ladik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55108</id>
+      <il>55 SAMSUN</il>
+      <ilce>Vezirköprü</ilce>
+      <isim>Vezirköprü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55109</id>
+      <il>55 SAMSUN</il>
+      <ilce>Asarcık</ilce>
+      <isim>Asarcık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55110</id>
+      <il>55 SAMSUN</il>
+      <ilce>Ondokuz Mayıs</ilce>
+      <isim>Ondokuz Mayıs Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55111</id>
+      <il>55 SAMSUN</il>
+      <ilce>Salıpazarı</ilce>
+      <isim>Salıpazarı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55112</id>
+      <il>55 SAMSUN</il>
+      <ilce>Merkez- (5216)</ilce>
+      <isim>Tekkeköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55113</id>
+      <il>55 SAMSUN</il>
+      <ilce>Ayvacık</ilce>
+      <isim>Ayvacık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>55114</id>
+      <il>55 SAMSUN</il>
+      <ilce>Yakakent</ilce>
+      <isim>Yakakent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>56260</id>
+      <il>56 SİİRT</il>
+      <ilce>Merkez</ilce>
+      <isim>Siirt Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>56102</id>
+      <il>56 SİİRT</il>
+      <ilce>Baykan</ilce>
+      <isim>Baykan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>56104</id>
+      <il>56 SİİRT</il>
+      <ilce>Eruh</ilce>
+      <isim>Eruh Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>56106</id>
+      <il>56 SİİRT</il>
+      <ilce>Kurtalan</ilce>
+      <isim>Kurtalan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>56107</id>
+      <il>56 SİİRT</il>
+      <ilce>Pervari</ilce>
+      <isim>Pervari Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>56110</id>
+      <il>56 SİİRT</il>
+      <ilce>Şirvan</ilce>
+      <isim>Şirvan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57260</id>
+      <il>57 SİNOP</il>
+      <ilce>Merkez</ilce>
+      <isim>Sinop Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>57261</id>
+      <il>57 SİNOP</il>
+      <ilce>Boyabat</ilce>
+      <isim>Boyabat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>57101</id>
+      <il>57 SİNOP</il>
+      <ilce>Ayancık</ilce>
+      <isim>Ayancık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57103</id>
+      <il>57 SİNOP</il>
+      <ilce>Durağan</ilce>
+      <isim>Durağan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57104</id>
+      <il>57 SİNOP</il>
+      <ilce>Erfelek</ilce>
+      <isim>Erfelek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57105</id>
+      <il>57 SİNOP</il>
+      <ilce>Gerze</ilce>
+      <isim>Gerze Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57106</id>
+      <il>57 SİNOP</il>
+      <ilce>Türkeli</ilce>
+      <isim>Türkeli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57107</id>
+      <il>57 SİNOP</il>
+      <ilce>Dikmen</ilce>
+      <isim>Dikmen Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>57108</id>
+      <il>57 SİNOP</il>
+      <ilce>Saraydüzü</ilce>
+      <isim>Saraydüzü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58201</id>
+      <il>58 SİVAS</il>
+      <ilce>Merkez</ilce>
+      <isim>Kale Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>58280</id>
+      <il>58 SİVAS</il>
+      <ilce>Merkez</ilce>
+      <isim>Site Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>58260</id>
+      <il>58 SİVAS</il>
+      <ilce>Şarkışla</ilce>
+      <isim>Şarkışla Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>58101</id>
+      <il>58 SİVAS</il>
+      <ilce>Divriği</ilce>
+      <isim>Divriği Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58102</id>
+      <il>58 SİVAS</il>
+      <ilce>Gemerek</ilce>
+      <isim>Gemerek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58103</id>
+      <il>58 SİVAS</il>
+      <ilce>Gürün</ilce>
+      <isim>Gürün Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58104</id>
+      <il>58 SİVAS</il>
+      <ilce>Hafik</ilce>
+      <isim>Hafik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58105</id>
+      <il>58 SİVAS</il>
+      <ilce>İmranlı</ilce>
+      <isim>İmranlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58106</id>
+      <il>58 SİVAS</il>
+      <ilce>Kangal</ilce>
+      <isim>Kangal Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58107</id>
+      <il>58 SİVAS</il>
+      <ilce>Koyulhisar</ilce>
+      <isim>Koyulhisar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58109</id>
+      <il>58 SİVAS</il>
+      <ilce>Suşehri</ilce>
+      <isim>Suşehri Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58110</id>
+      <il>58 SİVAS</il>
+      <ilce>Yıldızeli</ilce>
+      <isim>Yıldızeli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58111</id>
+      <il>58 SİVAS</il>
+      <ilce>Zara</ilce>
+      <isim>Zara Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58112</id>
+      <il>58 SİVAS</il>
+      <ilce>Akıncılar</ilce>
+      <isim>Akıncılar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58113</id>
+      <il>58 SİVAS</il>
+      <ilce>Altınyayla</ilce>
+      <isim>Altınyayla Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58114</id>
+      <il>58 SİVAS</il>
+      <ilce>Doğanşar</ilce>
+      <isim>Doğanşar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58115</id>
+      <il>58 SİVAS</il>
+      <ilce>Gölova</ilce>
+      <isim>Gölova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>58116</id>
+      <il>58 SİVAS</il>
+      <ilce>Ulaş</ilce>
+      <isim>Ulaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>59201</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Süleymanpaşa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59260</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Merkez</ilce>
+      <isim>Namık Kemal Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59250</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Çorlu</ilce>
+      <isim>Çorlu İhtisas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59261</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Çerkezköy</ilce>
+      <isim>Çerkezköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59262</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Çorlu</ilce>
+      <isim>Çorlu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59263</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Hayrabolu</ilce>
+      <isim>Hayrabolu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59264</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Malkara</ilce>
+      <isim>Malkara Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59265</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Muratlı</ilce>
+      <isim>Muratlı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59266</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Şarköy</ilce>
+      <isim>Şarköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59267</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Kapaklı</ilce>
+      <isim>Kapaklı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>59106</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Saray</ilce>
+      <isim>Saray Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>59108</id>
+      <il>59 TEKİRDAĞ</il>
+      <ilce>Marmara Ereğlisi</ilce>
+      <isim>Marmara Ereğlisi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60260</id>
+      <il>60 TOKAT</il>
+      <ilce>Merkez</ilce>
+      <isim>Tokat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>60261</id>
+      <il>60 TOKAT</il>
+      <ilce>Erbaa</ilce>
+      <isim>Erbaa Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>60262</id>
+      <il>60 TOKAT</il>
+      <ilce>Niksar</ilce>
+      <isim>Niksar Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>60263</id>
+      <il>60 TOKAT</il>
+      <ilce>Turhal</ilce>
+      <isim>Turhal Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>60264</id>
+      <il>60 TOKAT</il>
+      <ilce>Zile</ilce>
+      <isim>Zile Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>60101</id>
+      <il>60 TOKAT</il>
+      <ilce>Almus</ilce>
+      <isim>Almus Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60102</id>
+      <il>60 TOKAT</il>
+      <ilce>Artova</ilce>
+      <isim>Artova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60105</id>
+      <il>60 TOKAT</il>
+      <ilce>Reşadiye</ilce>
+      <isim>Reşadiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60108</id>
+      <il>60 TOKAT</il>
+      <ilce>Pazar</ilce>
+      <isim>Pazar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60109</id>
+      <il>60 TOKAT</il>
+      <ilce>Yeşilyurt</ilce>
+      <isim>Yeşilyurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60110</id>
+      <il>60 TOKAT</il>
+      <ilce>Başçiftlik</ilce>
+      <isim>Başçiftlik Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>60111</id>
+      <il>60 TOKAT</il>
+      <ilce>Sulusaray</ilce>
+      <isim>Sulusaray Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61201</id>
+      <il>61 TRABZON</il>
+      <ilce>Merkez</ilce>
+      <isim>Hızırbey Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>61280</id>
+      <il>61 TRABZON</il>
+      <ilce>Merkez</ilce>
+      <isim>Karadeniz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>61260</id>
+      <il>61 TRABZON</il>
+      <ilce>Akçaabat</ilce>
+      <isim>Akçaabat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>61261</id>
+      <il>61 TRABZON</il>
+      <ilce>Of</ilce>
+      <isim>Of Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>61262</id>
+      <il>61 TRABZON</il>
+      <ilce>Vakfıkebir</ilce>
+      <isim>Vakfıkebir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>61102</id>
+      <il>61 TRABZON</il>
+      <ilce>Araklı</ilce>
+      <isim>Araklı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61103</id>
+      <il>61 TRABZON</il>
+      <ilce>Arsin</ilce>
+      <isim>Arsin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61104</id>
+      <il>61 TRABZON</il>
+      <ilce>Çaykara</ilce>
+      <isim>Çaykara Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61105</id>
+      <il>61 TRABZON</il>
+      <ilce>Maçka</ilce>
+      <isim>Maçka Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61107</id>
+      <il>61 TRABZON</il>
+      <ilce>Sürmene</ilce>
+      <isim>Sürmene Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61108</id>
+      <il>61 TRABZON</il>
+      <ilce>Tonya</ilce>
+      <isim>Tonya Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61110</id>
+      <il>61 TRABZON</il>
+      <ilce>Yomra</ilce>
+      <isim>Yomra Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61111</id>
+      <il>61 TRABZON</il>
+      <ilce>Beşikdüzü</ilce>
+      <isim>Beşikdüzü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61112</id>
+      <il>61 TRABZON</il>
+      <ilce>Şalpazarı</ilce>
+      <isim>Şalpazarı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61113</id>
+      <il>61 TRABZON</il>
+      <ilce>Çarşıbaşı</ilce>
+      <isim>Çarşıbaşı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61114</id>
+      <il>61 TRABZON</il>
+      <ilce>Dernekpazarı</ilce>
+      <isim>Dernekpazarı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61115</id>
+      <il>61 TRABZON</il>
+      <ilce>Düzköy</ilce>
+      <isim>Düzköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61116</id>
+      <il>61 TRABZON</il>
+      <ilce>Hayrat</ilce>
+      <isim>Hayrat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>61117</id>
+      <il>61 TRABZON</il>
+      <ilce>Köprübaşı</ilce>
+      <isim>Köprübaşı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62260</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Merkez</ilce>
+      <isim>Tunceli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>62101</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Çemişgezek</ilce>
+      <isim>Çemişgezek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62102</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Hozat</ilce>
+      <isim>Hozat Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62103</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Mazgirt</ilce>
+      <isim>Mazgirt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62104</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Nazimiye</ilce>
+      <isim>Nazimiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62105</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Ovacık</ilce>
+      <isim>Ovacık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62106</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Pertek</ilce>
+      <isim>Pertek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>62107</id>
+      <il>62 TUNCELİ</il>
+      <ilce>Pülümür</ilce>
+      <isim>Pülümür Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>63201</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Merkez</ilce>
+      <isim>Şehitlik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63280</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Merkez</ilce>
+      <isim>Topçu Meydanı Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63281</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Merkez</ilce>
+      <isim>Göbeklitepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63260</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Siverek</ilce>
+      <isim>Siverek Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63261</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Viranşehir</ilce>
+      <isim>Viranşehir Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63262</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Birecik</ilce>
+      <isim>Birecik Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63263</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Suruç</ilce>
+      <isim>Suruç  Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>63101</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Akçakale</ilce>
+      <isim>Akçakale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>63103</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Bozova</ilce>
+      <isim>Bozova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>63104</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Halfeti</ilce>
+      <isim>Halfeti Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>63105</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Hilvan</ilce>
+      <isim>Hilvan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>63109</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Ceylanpınar</ilce>
+      <isim>Ceylanpınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>63110</id>
+      <il>63 ŞANLIURFA</il>
+      <ilce>Harran</ilce>
+      <isim>Harran Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>64260</id>
+      <il>64 UŞAK</il>
+      <ilce>Merkez</ilce>
+      <isim>Uşak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>64261</id>
+      <il>64 UŞAK</il>
+      <ilce>Banaz</ilce>
+      <isim>Banaz Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>64262</id>
+      <il>64 UŞAK</il>
+      <ilce>Eşme</ilce>
+      <isim>Eşme Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>64103</id>
+      <il>64 UŞAK</il>
+      <ilce>Karahallı</ilce>
+      <isim>Karahallı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>64104</id>
+      <il>64 UŞAK</il>
+      <ilce>Ulubey</ilce>
+      <isim>Ulubey Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>64105</id>
+      <il>64 UŞAK</il>
+      <ilce>Sivaslı</ilce>
+      <isim>Sivaslı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65260</id>
+      <il>65 VAN</il>
+      <ilce>Merkez</ilce>
+      <isim>Van Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>65201</id>
+      <il>65 VAN</il>
+      <ilce>Erciş</ilce>
+      <isim>Erciş Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>65101</id>
+      <il>65 VAN</il>
+      <ilce>Başkale</ilce>
+      <isim>Başkale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65102</id>
+      <il>65 VAN</il>
+      <ilce>Çatak</ilce>
+      <isim>Çatak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65104</id>
+      <il>65 VAN</il>
+      <ilce>Gevaş</ilce>
+      <isim>Gevaş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65105</id>
+      <il>65 VAN</il>
+      <ilce>Gürpınar</ilce>
+      <isim>Gürpınar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65106</id>
+      <il>65 VAN</il>
+      <ilce>Muradiye</ilce>
+      <isim>Muradiye Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65107</id>
+      <il>65 VAN</il>
+      <ilce>Özalp</ilce>
+      <isim>Özalp Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65108</id>
+      <il>65 VAN</il>
+      <ilce>Bahçesaray</ilce>
+      <isim>Bahçesaray Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65109</id>
+      <il>65 VAN</il>
+      <ilce>Çaldıran</ilce>
+      <isim>Çaldıran Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65110</id>
+      <il>65 VAN</il>
+      <ilce>Edremit</ilce>
+      <isim>Edremit Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>65111</id>
+      <il>65 VAN</il>
+      <ilce>Saray</ilce>
+      <isim>Saray Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66260</id>
+      <il>66 YOZGAT</il>
+      <ilce>Merkez</ilce>
+      <isim>Yozgat Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>66261</id>
+      <il>66 YOZGAT</il>
+      <ilce>Boğazlıyan</ilce>
+      <isim>Boğazlıyan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>66262</id>
+      <il>66 YOZGAT</il>
+      <ilce>Sorgun</ilce>
+      <isim>Sorgun Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>66263</id>
+      <il>66 YOZGAT</il>
+      <ilce>Yerköy</ilce>
+      <isim>Yerköy Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>66101</id>
+      <il>66 YOZGAT</il>
+      <ilce>Akdağmadeni</ilce>
+      <isim>Akdağmadeni Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66103</id>
+      <il>66 YOZGAT</il>
+      <ilce>Çayıralan</ilce>
+      <isim>Çayıralan Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66104</id>
+      <il>66 YOZGAT</il>
+      <ilce>Çekerek</ilce>
+      <isim>Çekerek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66105</id>
+      <il>66 YOZGAT</il>
+      <ilce>Sarıkaya</ilce>
+      <isim>Sarıkaya Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66106</id>
+      <il>66 YOZGAT</il>
+      <ilce>Şefaatli</ilce>
+      <isim>Şefaatli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66109</id>
+      <il>66 YOZGAT</il>
+      <ilce>Aydıncık</ilce>
+      <isim>Aydıncık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66110</id>
+      <il>66 YOZGAT</il>
+      <ilce>Çandır</ilce>
+      <isim>Çandır Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66111</id>
+      <il>66 YOZGAT</il>
+      <ilce>Kadışehri</ilce>
+      <isim>Kadışehri Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66112</id>
+      <il>66 YOZGAT</il>
+      <ilce>Saraykent</ilce>
+      <isim>Saraykent Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>66113</id>
+      <il>66 YOZGAT</il>
+      <ilce>Yenifakılı</ilce>
+      <isim>Yenifakılı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>67201</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Merkez</ilce>
+      <isim>Uzunmehmet Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>67280</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Merkez</ilce>
+      <isim>Kara Elmas Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>67261</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Ereğli</ilce>
+      <isim>Ereğli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>67263</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Çaycuma</ilce>
+      <isim>Çaycuma Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>67264</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Devrek</ilce>
+      <isim>Devrek Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>67110</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Alaplı</ilce>
+      <isim>Alaplı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>67113</id>
+      <il>67 ZONGULDAK</il>
+      <ilce>Gökçebey</ilce>
+      <isim>Gökçebey Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>68201</id>
+      <il>68 AKSARAY</il>
+      <ilce>Merkez</ilce>
+      <isim>Aksaray Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>68101</id>
+      <il>68 AKSARAY</il>
+      <ilce>Ağaçören</ilce>
+      <isim>Ağaçören Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>68102</id>
+      <il>68 AKSARAY</il>
+      <ilce>Güzelyurt</ilce>
+      <isim>Güzelyurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>68103</id>
+      <il>68 AKSARAY</il>
+      <ilce>Ortaköy</ilce>
+      <isim>Ortaköy Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>68104</id>
+      <il>68 AKSARAY</il>
+      <ilce>Sarıyahşi</ilce>
+      <isim>Sarıyahşi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>68105</id>
+      <il>68 AKSARAY</il>
+      <ilce>Eskil</ilce>
+      <isim>Eskil Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>68106</id>
+      <il>68 AKSARAY</il>
+      <ilce>Gülağaç</ilce>
+      <isim>Gülağaç Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>69201</id>
+      <il>69 BAYBURT</il>
+      <ilce>Merkez</ilce>
+      <isim>Bayburt Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>69101</id>
+      <il>69 BAYBURT</il>
+      <ilce>Aydıntepe</ilce>
+      <isim>Aydıntepe Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>69102</id>
+      <il>69 BAYBURT</il>
+      <ilce>Demirözü</ilce>
+      <isim>Demirözü Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>70201</id>
+      <il>70 KARAMAN</il>
+      <ilce>Merkez</ilce>
+      <isim>Karaman Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>70101</id>
+      <il>70 KARAMAN</il>
+      <ilce>Ayrancı</ilce>
+      <isim>Ayrancı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>70102</id>
+      <il>70 KARAMAN</il>
+      <ilce>Ermenek</ilce>
+      <isim>Ermenek Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>70103</id>
+      <il>70 KARAMAN</il>
+      <ilce>Kazım Karabekir</ilce>
+      <isim>Kazım Karabekir Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>70104</id>
+      <il>70 KARAMAN</il>
+      <ilce>Başyayla</ilce>
+      <isim>Başyayla Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>70105</id>
+      <il>70 KARAMAN</il>
+      <ilce>Sarıveliler</ilce>
+      <isim>Sarıveliler Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>71201</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Merkez</ilce>
+      <isim>Irmak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>71202</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Merkez</ilce>
+      <isim>Kaletepe Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>71101</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Delice</ilce>
+      <isim>Delice Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>71102</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Keskin</ilce>
+      <isim>Keskin Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>71103</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Sulakyurt</ilce>
+      <isim>Sulakyurt Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>71105</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Balışeyh</ilce>
+      <isim>Balışeyh Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>71106</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Çelebi</ilce>
+      <isim>Çelebi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>71107</id>
+      <il>71 KIRIKKALE</il>
+      <ilce>Karakeçili</ilce>
+      <isim>Karakeçili Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>72260</id>
+      <il>72 BATMAN</il>
+      <ilce>Merkez</ilce>
+      <isim>Batman Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>72101</id>
+      <il>72 BATMAN</il>
+      <ilce>Beşiri</ilce>
+      <isim>Beşiri Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>72102</id>
+      <il>72 BATMAN</il>
+      <ilce>Gercüş</ilce>
+      <isim>Gercüş Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>72103</id>
+      <il>72 BATMAN</il>
+      <ilce>Hasankeyf</ilce>
+      <isim>Hasankeyf Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>72104</id>
+      <il>72 BATMAN</il>
+      <ilce>Kozluk</ilce>
+      <isim>Kozluk Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>72105</id>
+      <il>72 BATMAN</il>
+      <ilce>Sason</ilce>
+      <isim>Sason Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>73260</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>Merkez</ilce>
+      <isim>Şırnak Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>73261</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>Cizre</ilce>
+      <isim>Cizre Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>73262</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>Silopi</ilce>
+      <isim>Silopi Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>73101</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>Beytüşşebap</ilce>
+      <isim>Beytüşşebap Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>73103</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>Güçlükonak</ilce>
+      <isim>Güçlükonak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>73104</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>İdil</ilce>
+      <isim>İdil Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>73106</id>
+      <il>73 ŞIRNAK</il>
+      <ilce>Uludere</ilce>
+      <isim>Uludere Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>74260</id>
+      <il>74 BARTIN</il>
+      <ilce>Merkez</ilce>
+      <isim>Bartın Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>74101</id>
+      <il>74 BARTIN</il>
+      <ilce>Amasra</ilce>
+      <isim>Amasra Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>74102</id>
+      <il>74 BARTIN</il>
+      <ilce>Kurucaşile</ilce>
+      <isim>Kurucaşile Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>74103</id>
+      <il>74 BARTIN</il>
+      <ilce>Ulus</ilce>
+      <isim>Ulus Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>75201</id>
+      <il>75 ARDAHAN</il>
+      <ilce>Merkez</ilce>
+      <isim>Ardahan Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>75101</id>
+      <il>75 ARDAHAN</il>
+      <ilce>Çıldır</ilce>
+      <isim>Çıldır Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>75102</id>
+      <il>75 ARDAHAN</il>
+      <ilce>Damal</ilce>
+      <isim>Damal Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>75103</id>
+      <il>75 ARDAHAN</il>
+      <ilce>Göle</ilce>
+      <isim>Göle Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>75104</id>
+      <il>75 ARDAHAN</il>
+      <ilce>Hanak</ilce>
+      <isim>Hanak Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>75105</id>
+      <il>75 ARDAHAN</il>
+      <ilce>Posof</ilce>
+      <isim>Posof Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>76201</id>
+      <il>76 IĞDIR</il>
+      <ilce>Merkez</ilce>
+      <isim>Iğdır Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>76101</id>
+      <il>76 IĞDIR</il>
+      <ilce>Aralık</ilce>
+      <isim>Aralık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>76102</id>
+      <il>76 IĞDIR</il>
+      <ilce>Karakoyunlu</ilce>
+      <isim>Karakoyunlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>76103</id>
+      <il>76 IĞDIR</il>
+      <ilce>Tuzluca</ilce>
+      <isim>Tuzluca Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>77201</id>
+      <il>77 YALOVA</il>
+      <ilce>Merkez</ilce>
+      <isim>Yalova Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>77101</id>
+      <il>77 YALOVA</il>
+      <ilce>Altınova</ilce>
+      <isim>Altınova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>77102</id>
+      <il>77 YALOVA</il>
+      <ilce>Armutlu</ilce>
+      <isim>Armutlu Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>77103</id>
+      <il>77 YALOVA</il>
+      <ilce>Çınarcık</ilce>
+      <isim>Çınarcık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>78201</id>
+      <il>78 KARABÜK</il>
+      <ilce>Merkez</ilce>
+      <isim>Karabük Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>78260</id>
+      <il>78 KARABÜK</il>
+      <ilce>Safranbolu</ilce>
+      <isim>Safranbolu Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>78101</id>
+      <il>78 KARABÜK</il>
+      <ilce>Eflani</ilce>
+      <isim>Eflani Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>78102</id>
+      <il>78 KARABÜK</il>
+      <ilce>Eskipazar</ilce>
+      <isim>Eskipazar Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>78103</id>
+      <il>78 KARABÜK</il>
+      <ilce>Ovacık</ilce>
+      <isim>Ovacık Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>78105</id>
+      <il>78 KARABÜK</il>
+      <ilce>Yenice</ilce>
+      <isim>Yenice Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>79201</id>
+      <il>79 KİLİS</il>
+      <ilce>Merkez</ilce>
+      <isim>Kilis Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>80201</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Merkez</ilce>
+      <isim>Osmaniye Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>80260</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Kadirli</ilce>
+      <isim>Kadirli Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>80101</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Bahçe</ilce>
+      <isim>Bahçe  Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>80102</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Düziçi</ilce>
+      <isim>Düziçi Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>80104</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Hasanbeyli</ilce>
+      <isim>Hasanbeyli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>80105</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Sumbas</ilce>
+      <isim>Sumbas Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>80106</id>
+      <il>80 OSMANİYE</il>
+      <ilce>Toprakkale</ilce>
+      <isim>Toprakkale Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>81260</id>
+      <il>81 DÜZCE</il>
+      <ilce>Merkez</ilce>
+      <isim>Düzce Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>81261</id>
+      <il>81 DÜZCE</il>
+      <ilce>Akçakoca</ilce>
+      <isim>Akçakoca Vergi Dairesi Müdürlüğü</isim>
+   </element>
+   <element>
+      <id>81102</id>
+      <il>81 DÜZCE</il>
+      <ilce>Cumayeri</ilce>
+      <isim>Cumayeri Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>81103</id>
+      <il>81 DÜZCE</il>
+      <ilce>Çilimli</ilce>
+      <isim>Çilimli Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>81104</id>
+      <il>81 DÜZCE</il>
+      <ilce>Gölyaka</ilce>
+      <isim>Gölyaka Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>81105</id>
+      <il>81 DÜZCE</il>
+      <ilce>Gümüşova</ilce>
+      <isim>Gümüşova Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>81106</id>
+      <il>81 DÜZCE</il>
+      <ilce>Kaynaşlı</ilce>
+      <isim>Kaynaşlı Malmüdürlüğü</isim>
+   </element>
+   <element>
+      <id>81107</id>
+      <il>81 DÜZCE</il>
+      <ilce>Yığılca</ilce>
+      <isim>Yığılca Malmüdürlüğü</isim>
+   </element>
+</root>
+
